@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <!-- Add your page name and sitename for the page's metadata -->
+      <title>Overnatting og transport</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Make sure to use the proper relative path to your CSS file! -->
+    <link rel="stylesheet" href="./../style.css"> 
+  </head>
+  <body>
+    <!-- Create an h1 header that is linked back to your homepage -->
+    <h1><a href="./../index.html">Hjemside</a></h1>
+    <!-- Create an h4 header that is linked to your various subpages and links -->
+    <hr>
+    <!-- Create an h2 header for the title of this blog overview page -->
+    <!-- Add content and use <ul> and <li> tags for bulleted lists <p> tags for line breaks -->
+    <!-- This is a great place to link to your most recent blog posts -->
+    <div id="overnattingOgTransportTekst"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+    fetch('../text-file/overnattingOgTransport.md')
+      .then(response => response.text())
+      .then(data => {
+        document.getElementById('overnattingOgTransportTekst').innerHTML = marked.parse(data);
+      });
+    </script>
+</body>
+</html>

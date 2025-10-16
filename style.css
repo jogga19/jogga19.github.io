@@ -1,0 +1,143 @@
+/* CSS Notes
+1. Body:
+  max-width: 40em;
+    This sets the maximum width of the body element to 40em.
+    An em is a scalable unit that is used in web document media.
+    An em is equal to the current font-size, for instance, if the font-size of the document is 12pt, 1em is equal to 12pt.
+  margin: 0 auto;
+    This rule centers the body element horizontally within its containing element.
+    The '0' removes any top and bottom margins, while 'auto' evenly distributes the left and right margins.
+  padding: 5px;
+    This sets the padding space required between the content of the element and its border to 5 pixels on all four sides.
+  font-family: sans-serif;
+    This rule sets the font of the text within the body to be any 'sans-serif' font.
+  font-weight: lighter;
+    This sets the thickness of the font within the body to 'lighter'.
+    This usually corresponds to a font weight of 300.
+  font-size: 18px;
+    This sets the size of the font within the body to be 18 pixels.
+  line-height: 1.6em;
+    This sets the distance between lines to be 1.6 times the size of the current font size.
+  color: black;
+    This sets the color of the text within the body to be black.
+  background-color: white;
+    This sets the background color of the body to be white.
+2. h1, h2, h3, h4:
+  font-family: sans-serif;
+    This rule sets the font of the text within the h1, h2, h3, and h4 elements to be any 'sans-serif' font.
+  font-weight: normal;
+    This sets the thickness of the font within the h1, h2, h3, and h4 elements to 'normal'.
+  background-color: white;
+    This sets the background color of the h1, h2, h3, and h4 elements to be white.
+  
+  Note that the body's styles apply to all elements within the body, 
+  but specific styles declared for h1, h2, h3, and h4 will override the corresponding styles in the body for these elements.
+*/
+
+:root {
+  --main-text-color: #f5f5f5;
+  --header-color: #ffffff;
+  --link-color: #e8d4b8;
+  --link-hover-color: #f4e8d8;
+  --accent-color: #d4af94;
+}
+
+body {
+    max-width: 45em;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 1.8em;
+    color: var(--main-text-color);
+    background-image: url('./images/ragnhild_og_jorgen.jpg');
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.45);
+  pointer-events: none;
+  z-index: -1;
+}
+
+h1 {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-weight: 400;
+  font-size: 2.5em;
+  color: var(--header-color);
+  text-align: center;
+  margin-bottom: 0.5em;
+  letter-spacing: 0.05em;
+  line-height: 1.05em;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+}
+
+h2 {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-weight: 400;
+  font-size: 1.8em;
+  color: var(--accent-color);
+  margin-top: 1.2em;
+  margin-bottom: 0.6em;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.7);
+}
+
+h3, h4 {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-weight: 300;
+  color: var(--header-color);
+  text-align: center;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
+}
+
+h4 {
+  font-size: 1.1em;
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+}
+
+a {
+    color: var(--link-color);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: all 0.3s ease;
+}
+
+a:hover {
+    color: var(--link-hover-color);
+    border-bottom: 1px solid var(--link-hover-color);
+}
+
+a:visited {
+    color: var(--link-color);
+}
+
+p {
+  margin-bottom: 1em;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+}
+
+hr {
+  border: none;
+  border-top: 1px solid rgba(255, 255, 255, 0.3);
+  margin: 2em 0;
+}
+
+ul, ol {
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+}
+
+img {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  border-radius: 4px;
+}

@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!-- Add your page name and sitename for the page's metadata -->
+    <title>Bryllup til Ragnhild og Jørgen</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Make sure to use the proper relative path to your CSS file! -->
+    <link rel="stylesheet" href="./style.css"> 
+  </head>
+  <body>
+    <!-- Create an h1 header that is linked back to your homepage -->
+    <h1>Bryllup til Ragnhild og Jørgen</h1> 
+    <!-- Create an h4 header that is linked to your various subpages and links -->
+    <h4>
+      <a href="./page/onskeliste.html">Ønskeliste</a>
+      |
+      <a href="./page/overnattingOgTransport.html">Overnatting og transport</a>
+    </h4>
+        <!-- <a href="./now.html">Now</a> -->
+    <hr>
+    <!-- Add content and use <p> tags for line breaks -->
+    <div id="hjemmesideTekst"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+    fetch('./text-file/hjemmeside.md')
+      .then(response => response.text())
+      .then(data => {
+        document.getElementById('hjemmesideTekst').innerHTML = marked.parse(data);
+      });
+    </script>
+  </body>
+</html>
