@@ -14,19 +14,19 @@
 
 ## Påmelding
 Vennligst bekreft deres deltagelse innen [dato]:
-- **E-post:** [epost@adresse.no] 
+- **E-post:** [epost@adresse.no]
 - **Telefon:** [telefonnummer]
 
 ---
 
 ## Kontaktinformasjon
-- **Brudgom:** Jørgen Bjerga, 918 20 054
-- **Brud:** Ragnhild Wiik, 993 46 391  
+- **Brudgom:** Jørgen Bjerga, 91820054
+- **Brud:** Ragnhild Wiik, 99346391
 - **Toastmaster:** [Navn og telefon]
 
 ---
 
-## Kosthold
+## Allergier og kostbehov
 Vennligst informer oss om eventuelle allergier eller spesielle kostbehov ved påmelding.
 
 ---
