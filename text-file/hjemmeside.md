@@ -12,16 +12,10 @@
 
 ---
 
-## Toastmastere
+## Vi håper dere kan komme!
 
----
-
-## Påmelding
 Vennligst bekreft deres deltagelse på SMS til en av oss innen 1. mai 2026.
 
----
-
-## Kontaktinformasjon
 - **Ragnhild Wiik:**
   - Telefon: 99346391
   - E-post: ragn99@gmail.com
@@ -31,12 +25,24 @@ Vennligst bekreft deres deltagelse på SMS til en av oss innen 1. mai 2026.
 
 ---
 
+## Toastmasterne
+
+Ta gjerne kontakt med toastmasterne dersom du ønsker å bidra med tale eller underholdning.
+- **Edel Brådland:** 
+    - **Telefon:** 95076167
+    - **E-post:** 
+- **Live Ramsli Søyland:**
+    - **Telefon:** 
+    - **E-post:** 
+
+---
+
 ## Allergier
 Vennligst informer oss om eventuelle allergier eller spesielle kostbehov ved påmelding.
 
 ---
 
-Vi ser frem til å feire den store dagen sammen med dere!
+## Vi ser frem til å feire den store dagen sammen med dere!
 
 **Vennlig hilsen**  
 Ragnhild og Jørgen
