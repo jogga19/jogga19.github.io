@@ -8,7 +8,7 @@
 ## Program for dagen
 - **13:30** - **Vielsesseremoni** - Vi inngår ekteskapet
 - **15:00** - **Ventemat** - Lett servering på KVT
-- **16:30** - **Bryllupsfest** - Feires på KVT
+- **17:30** - **Bryllupsfest** - Feires på KVT
 
 ---
 
@@ -20,9 +20,13 @@ Vennligst bekreft deres deltagelse innen [dato]:
 ---
 
 ## Kontaktinformasjon
-- **Brudgom:** Jørgen Bjerga, 91820054
-- **Brud:** Ragnhild Wiik, 99346391
-- **Toastmaster:** [Navn og telefon]
+- **Brudgom:** Jørgen Bjerga:
+  - Telefon: 91820054
+  - E-post: jorgen.bjerga@gmail.com
+- **Brud:** Ragnhild Wiik:
+  - Telefon: 99346391
+  - E-post: ragn99@gmail.com
+- **Toastmastere:** [Navn og telefon]
 
 ---
 
