@@ -13,17 +13,15 @@
 ---
 
 ## Påmelding
-Vennligst bekreft deres deltagelse innen [dato]:
-- **E-post:** [epost@adresse.no]
-- **Telefon:** [telefonnummer]
+Vennligst bekreft deres deltagelse til en av oss innen 1. mai 2026.
 
 ---
 
 ## Kontaktinformasjon
-- **Brudgom:** Jørgen Bjerga:
+- **Jørgen Bjerga:**
   - Telefon: 91820054
   - E-post: jorgen.bjerga@gmail.com
-- **Brud:** Ragnhild Wiik:
+- **Ragnhild Wiik:**
   - Telefon: 99346391
   - E-post: ragn99@gmail.com
 - **Toastmastere:** [Navn og telefon]
