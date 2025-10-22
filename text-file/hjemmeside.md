@@ -13,7 +13,7 @@
 ---
 
 ## Påmelding
-Vennligst bekreft deres deltagelse til en av oss innen 1. mai 2026.
+Vennligst bekreft deres deltagelse på SMS til en av oss innen 1. mai 2026.
 
 ---
 
@@ -28,7 +28,7 @@ Vennligst bekreft deres deltagelse til en av oss innen 1. mai 2026.
 
 ---
 
-## Allergier og kostbehov
+## Allergier
 Vennligst informer oss om eventuelle allergier eller spesielle kostbehov ved påmelding.
 
 ---
