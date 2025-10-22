@@ -12,19 +12,22 @@
 
 ---
 
+## Toastmastere
+
+---
+
 ## Påmelding
 Vennligst bekreft deres deltagelse på SMS til en av oss innen 1. mai 2026.
 
 ---
 
 ## Kontaktinformasjon
-- **Jørgen Bjerga:**
-  - Telefon: 91820054
-  - E-post: jorgen.bjerga@gmail.com
 - **Ragnhild Wiik:**
   - Telefon: 99346391
   - E-post: ragn99@gmail.com
-- **Toastmastere:** [Navn og telefon]
+- **Jørgen Bjerga:**
+  - Telefon: 91820054
+  - E-post: jorgen.bjerga@gmail.com
 
 ---
 
