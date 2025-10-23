@@ -36,7 +36,7 @@ Ta gjerne kontakt med toastmasterne dersom du ønsker å bidra med tale eller un
 ---
 
 ## Allergier
-Vennligst informer oss om eventuelle allergier eller spesielle kostbehov ved påmelding.
+Vennligst informer oss om eventuelle allergier eller spesielle kostbehov.
 
 ---
 
