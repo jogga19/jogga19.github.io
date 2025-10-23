@@ -30,10 +30,8 @@ Vennligst bekreft deres deltagelse på SMS til en av oss innen 1. mai 2026.
 Ta gjerne kontakt med toastmasterne dersom du ønsker å bidra med tale eller underholdning.
 - **Edel Brådland:** 
     - **Telefon:** 95076167
-    - **E-post:** 
 - **Live Ramsli Søyland:**
-    - **Telefon:** 
-    - **E-post:** 
+    - **Telefon:** 90130870
 
 ---
 
