@@ -25,6 +25,12 @@ Vennligst bekreft deres deltagelse på SMS til en av oss innen 1. mai 2026.
 
 ---
 
+## Overnatting
+
+Ta gjerne kontakt med oss dersom dere lurer på overnatting, så hjelper vi dere gjerne!
+
+---
+
 ## Toastmasterne
 
 Ta gjerne kontakt med toastmasterne dersom du ønsker å bidra med tale eller underholdning.
@@ -44,4 +50,11 @@ Vennligst informer oss om eventuelle allergier eller spesielle kostbehov.
 
 **Vennlig hilsen**  
 Ragnhild og Jørgen
+
+---
+
+<div style="height: 100vh;"></div>
+
+
+
 
