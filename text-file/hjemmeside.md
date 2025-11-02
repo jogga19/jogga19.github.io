@@ -27,13 +27,13 @@ Vennligst bekreft deres deltagelse på SMS til en av oss innen 1. mai 2026.
 
 ## Overnatting
 
-Ta gjerne kontakt med oss dersom dere lurer på overnatting, så hjelper vi dere gjerne!
+Ta kontakt med oss dersom dere lurer på overnatting, så hjelper vi dere gjerne!
 
 ---
 
 ## Toastmasterne
 
-Ta gjerne kontakt med toastmasterne dersom du ønsker å bidra med tale eller underholdning.
+Ta kontakt med toastmasterne dersom du ønsker å bidra med tale eller underholdning.
 - **Edel Brådland:** 
     - **Telefon:** 95076167
 - **Live Ramsli Søyland:**
