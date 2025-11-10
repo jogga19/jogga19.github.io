@@ -20,6 +20,3 @@ Busstopp i nærheten av KVT:
 <img src="../images/Parkering_Tiller_kirke.png" alt="Parkering ved Tiller kirke" width="50%">
 </div>
 
----
-
-<div style="height: 100vh;"></div>

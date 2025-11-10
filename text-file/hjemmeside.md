@@ -7,27 +7,25 @@
 
 ## Program for dagen
 - **13:30** - **Vielsesseremoni** - Vi inngår ekteskapet
-- **15:00** - **Ventemat** - Lett servering på KVT
+- **15:30** - **Ventemat** - Lett servering på KVT
 - **17:30** - **Bryllupsfest** - Feires på KVT
 
 ---
 
 ## Vi håper dere kan komme!
 
-Vennligst bekreft deres deltagelse på SMS til en av oss innen 1. mai 2026.
+Svar ønskes innen 1. mai 2026.
 
-- **Ragnhild Wiik:**
-  - Telefon: 99346391
-  - E-post: ragn99@gmail.com
-- **Jørgen Bjerga:**
-  - Telefon: 91820054
-  - E-post: jorgen.bjerga@gmail.com
+- **Ragnhild:**
+  - Tlf: 99346391
+- **Jørgen:**
+  - Tlf: 91820054
 
 ---
 
 ## Overnatting
 
-Ta kontakt med oss dersom dere lurer på overnatting, så hjelper vi dere gjerne!
+Ta kontakt med oss dersom dere ønsker hjelp til å finne overnattingsplass.
 
 ---
 
@@ -35,14 +33,14 @@ Ta kontakt med oss dersom dere lurer på overnatting, så hjelper vi dere gjerne
 
 Ta kontakt med toastmasterne dersom du ønsker å bidra med tale eller underholdning.
 - **Edel Brådland:** 
-    - **Telefon:** 95076167
+    - **Tlf:** 95076167
 - **Live Ramsli Søyland:**
-    - **Telefon:** 90130870
+    - **Tlf:** 90130870
 
 ---
 
 ## Allergier
-Vennligst informer oss om eventuelle allergier eller spesielle kostbehov.
+Vennligst informer oss om eventuelle allergier eller andre ting vi skal ta hensyn til.
 
 ---
 
@@ -51,9 +49,6 @@ Vennligst informer oss om eventuelle allergier eller spesielle kostbehov.
 **Vennlig hilsen**  
 Ragnhild og Jørgen
 
----
-
-<div style="height: 100vh;"></div>
 
 
 
