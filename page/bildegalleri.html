@@ -1,0 +1,108 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <!-- Add your page name and sitename for the page's metadata -->
+      <title>Parkering og transport</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Make sure to use the proper relative path to your CSS file! -->
+    <link rel="stylesheet" href="./../style.css">
+    <style>
+      .gallery {
+        width: 100%;
+        max-width: 100vw;
+        position: relative;
+      }
+      
+      .slideshow-container {
+        position: relative;
+        width: 100%;
+        height: 70vh;
+        overflow: hidden;
+      }
+      
+      .slide {
+        display: none;
+        width: 100%;
+        height: 100%;
+      }
+      
+      .slide.active {
+        display: block;
+      }
+      
+      .slide img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+      }
+      
+      .prev, .next {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        background-color: rgba(0,0,0,0.5);
+        color: white;
+        border: none;
+        padding: 16px;
+        font-size: 18px;
+        cursor: pointer;
+        z-index: 1;
+      }
+      
+      .prev {
+        left: 10px;
+      }
+      
+      .next {
+        right: 10px;
+      }
+      
+      .prev:hover, .next:hover {
+        background-color: rgba(0,0,0,0.8);
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Create an h1 header that is linked back to your homepage -->
+    <h1>Bildegalleri</h1>
+    <h4>
+      <a href="./../index.html">Hjemside</a>
+      |
+      <a href="./onskeliste.html">Ønskeliste</a>
+      |
+      <a href="./transport.html">Parkering og transport</a>
+    </h4>
+    <!-- Create an h4 header that is linked to your various subpages and links -->
+    <hr>
+    <!-- Create list of pictures -->
+    <div class="gallery">
+      <div class="slideshow-container">
+      <div class="slide active">
+        <img src="../images/ragnhild_og_jorgen.jpg" alt="Ragnhild og Jørgen">
+      </div>
+      <div class="slide">
+        <img src="../images/Parkering_KVT.png" alt="Parking KVT">
+      </div>
+
+      <button class="prev" onclick="changeSlide(-1)">&#10094;</button>
+      <button class="next" onclick="changeSlide(1)">&#10095;</button>
+      </div>
+    </div>
+
+    <script>
+      let currentSlide = 0;
+      const slides = document.querySelectorAll('.slide');
+
+      function showSlide(n) {
+      slides[currentSlide].classList.remove('active');
+      currentSlide = (n + slides.length) % slides.length;
+      slides[currentSlide].classList.add('active');
+      }
+
+      function changeSlide(direction) {
+      showSlide(currentSlide + direction);
+      }
+    </script>
+</body>
+</html>
