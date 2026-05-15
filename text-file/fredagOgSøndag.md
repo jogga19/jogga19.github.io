@@ -1,9 +1,11 @@
 ## Fredag
 
-Vi håper å kunne invitere til grilling på fredag kveld.
+Vi inviterer til grilling på KVT på Fredag fra kl. 19:00.
+Vi stiller med mat. Kjekt om du vil komme!
 
 ---
 
 ## Søndag
 
-Mer info om restefest kommer.
+Det blir restefest i Valøyslyngen 3A på Søndag fra kl. 11:00.
+Velkommen innom for en kopp kaffe og litt kake!
