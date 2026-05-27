@@ -10,5 +10,5 @@ Håper du vil komme!
 
 ## Søndag
 
-Det blir restefest i Valøyslyngen 3A på søndag fra kl. 11:00.
+Det blir restefest i Valøyslyngen 3A på søndag fra kl. 13:00.
 Velkommen innom for en kopp kaffe og litt kake!
